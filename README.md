@@ -12,11 +12,11 @@
 
   > Main
 
-  [![20220221-205034.png](Screenshot_20220422-150803281.jpg)](Screenshot_20220422-150803281.jpg)
+  [![20220221-205034.png](Screenshot_20220505-085640192.jpg)](Screenshot_20220505-085640192.jpg)
 
   > About
 
-  [![20220221-205008.png](Screenshot_20220422-150825330.jpg)](Screenshot_20220422-150825330.jpg)
+  [![20220221-205008.png](Screenshot_20220505-091846788.jpg)](Screenshot_20220505-091846788.jpg)
 
 ## Credits
 
