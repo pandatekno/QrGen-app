@@ -23,4 +23,4 @@
 - [qrserver](https://api.qrserver.com/v1/create-qr-code) api create qr code
 
 ## Download
-- [click here](https://github.com/tesacreative/app-fakta-unik/releases)
+- [click here](https://github.com/pandatekno/QrGen-app/releases/tag/v1.0)
